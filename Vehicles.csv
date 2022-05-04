@@ -1,0 +1,17 @@
+License plate #,Type,Brand,Model,Year,Color,Engine Size,Fuel Type,Transmission,Seating capacity,Towing Capacity(kg),# Helmets,Rate per Day,Mileage(km)
+7665BG,Car,Honda,Fit,2014,Blue,1.5L,Gas,CVT,5,-,-," $ 11,000.00 ","  38,941.00 "
+6708CP,Car,Subaru,Impreza,2012,Black,2.0L,Gas,A,5,-,-," $ 12,000.00 ","  63,752.00 "
+1416JG,Car,Toyota,Probox,2012,White,1.6L,Gas,A,5,-,-," $ 6,500.00 ","  321,843.00 "
+8638HS,Car,BMW,M5,2019,Black,4.4L,Gas,M,5,-,-," $ 70,000.00 ",  23.00 
+4337EB,Car,Mercedes,AMG C 63,2019,White,4.0L,Diesel,CVT,5,-,-," $ 55,000.00 ",  428.00 
+3447FB,Car,Suzuki ,Swift,2019,Grey,1.3L,Gas,CVT,5,-,-," $ 55,000.00 ","  12,428.00 "
+8967PO,Truck,Toyota,Hilux,2018,Orange,2.4L,Diesel,M,3,750,-," $ 25,000.00 ","  57,542.00 "
+7532CY,Truck,Ford,Ranger Raptor,2018,Blue,3.2L,Diesel,A,5,2500,-," $ 42,000.00 ","  14,731.00 "
+3705FN,Truck,Nissan,Navara,2018,Black,2.3L,Gas,A,3,3500,-," $ 22,000.00 ","  25,368.00 "
+8594HE,Truck,Volkswagen,Amarok,2019,Silver,2.0L,Diesel,M,5,1154,-," $ 38,000.00 ","  13,512.00 "
+7669BU,Truck,Honda,Ridgeline,2017,Black,3.5L,Gas,A,5,2267,-," $ 40,000.00 ","  17,821.00 "
+7950HI,Bike,Yamaha,YZF R1,2018,Blue,1.0L,Gas,M,2,-,1," $ 7,000.00 ","  3,532.00 "
+7752BI,Bike,Kawasaki ,Ninja 300,2018,Red,0.3L,Gas,M,2,-,1," $ 12,000.00 ",  152.00 
+2853ER,Bike,Ducati ,Monster 821,2017,Red,0.15L,Gas,M,2,-,2," $ 5,000.00 ","  34,512.00 "
+1583CD,Bike,Suzuki ,SV650X,2018,Silver,0.65L,Gas,M,2,-,2," $ 9,000.00 ","  23,516.00 "
+8818FU,Bike,Honda,Activa5G,2017,Yellow,0.12L,Gas,M,2,-,2," $ 3,000.00 ","  67,328.00 "
